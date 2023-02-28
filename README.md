@@ -1,1 +1,4 @@
-# PDS_assignment_1
+# PDS_assignments
+
+
+This is the PDS assigment repository.
